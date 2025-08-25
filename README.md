@@ -1,2 +1,3 @@
-# calculator
-this is my fast repo
+python practice
+
+this is my farst repo
