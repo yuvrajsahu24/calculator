@@ -1,3 +1,3 @@
-python practice
 
-this is my farst repo
+
+this is my farst repository.
